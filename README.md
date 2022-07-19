@@ -284,6 +284,23 @@ show_col(MHpalettes$mhs2_lagiacrus)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak -  (mhSunbreak_garangolm)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.png" width="640" height="360">
+</p>
+
+```r
+# show ordering of colors in Monster Hunter Stories 2 - Palamute (mhSunbreak_garangolm) palette
+show_col(MHpalettes$mhSunbreak_garangolm)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.png">
+</p>
+
+<hr>
+
 ## Monster Hunter Stories 2 - Palamute (mhs2_palamute)
 
 <p align="center">
@@ -301,19 +318,4 @@ show_col(MHpalettes$mhs2_palamute)
 
 <hr>
 
-## Monster Hunter Rise Sunbreak -  (mhSunbreak_garangolm)
 
-<p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.jpeg" width="640" height="360">
-</p>
-
-```r
-# show ordering of colors in Monster Hunter Stories 2 - Palamute (mhSunbreak_garangolm) palette
-show_col(MHpalettes$mhSunbreak_garangolm)
-```
-
-<p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.png">
-</p>
-
-<hr>
