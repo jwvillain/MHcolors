@@ -284,19 +284,36 @@ show_col(MHpalettes$mhs2_lagiacrus)
 
 <hr>
 
-## Monster Hunter Rise Sunbreak -  (mhSunbreak_garangolm)
+## Monster Hunter Rise Sunbreak - Garangolm (mhSunbreak_garangolm)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.jpg" width="640" height="360">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.jpg" width="426.7" height="240">
 </p>
 
 ```r
-# show ordering of colors in Monster Hunter Stories 2 - Palamute (mhSunbreak_garangolm) palette
+# show ordering of colors in Monster Hunter Rise Sunbreak - Garangolm (mhSunbreak_garangolm) palette
 show_col(MHpalettes$mhSunbreak_garangolm)
 ```
 
 <p align="center">
   <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.png">
+</p>
+
+<hr>
+
+## Monster Hunter Rise Sunbreak - Blood Orange Bishaten (mhSunbreak_orangaten)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_orangaten.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Blood Orange Bishaten (mhSunbreak_orangaten) palette
+show_col(MHpalettes$mhSunbreak_orangaten)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_orangaten_palette.png">
 </p>
 
 <hr>
