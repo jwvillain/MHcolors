@@ -296,7 +296,7 @@ show_col(MHpalettes$mhSunbreak_garangolm)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.jpg">
 </p>
 
 <hr>
