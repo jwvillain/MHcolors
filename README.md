@@ -20,10 +20,11 @@ Below is the list of palettes that are currently available. Palettes were design
 library(MHcolors)
 
 names(MHpalettes)
-[1] "mhr_tetranadon"       "mhr_magnamalo"        "mhr_pukei"            "mhr_mizutsune"        "mhr_narwa"           
-[6] "mhr_ibushi"           "mhr_tigrex"           "mhr_apexZinogre"      "mhr_goss"             "mhs2_razewing"       
-[11] "mhs2_zamtrios"        "mhs2_elderfrost"      "mhs2_boltreaver"      "mhs2_hellblade"       "mhs2_lagiacrus"      
-[16] "mhSunbreak_garangolm" "mhSunbreak_orangaten" "mhr_kamura"           "mhs2_palamute"        "mhSunbreak_elgado"
+ [1] "mhr_tetranadon"       "mhr_magnamalo"        "mhr_pukei"            "mhr_mizutsune"       
+ [5] "mhr_narwa"            "mhr_ibushi"           "mhr_tigrex"           "mhr_apexZinogre"     
+ [9] "mhr_goss"             "mhs2_razewing"        "mhs2_zamtrios"        "mhs2_elderfrost"     
+[13] "mhs2_boltreaver"      "mhs2_hellblade"       "mhs2_lagiacrus"       "mhSunbreak_garangolm"
+[17] "mhSunbreak_orangaten" "mhr_kamura"           "mhs2_palamute"        "mhSunbreak_elgado"   
 ```
 
 <hr>
@@ -31,16 +32,16 @@ names(MHpalettes)
 ## Monster Hunter Rise - Tetranadon (mhr_tetranadon)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_tetranadon.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_tetranadon.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Tetranadon (mhr_tetranadon) palette
-show_col(jwvillain_palette$mhr_tetranadon)
+show_col(MHpalettes$mhr_tetranadon)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_tetranadon_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_tetranadon_palette.png">
 </p>
 
 <hr>
@@ -48,16 +49,16 @@ show_col(jwvillain_palette$mhr_tetranadon)
 ## Monster Hunter Rise - Magnamalo (mhr_magnamalo)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_magnamalo.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_magnamalo.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Magnamalo (mhr_magnamalo) palette
-show_col(jwvillain_palette$mhr_magnamalo)
+show_col(MHpalettes$mhr_magnamalo)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_magnamalo_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_magnamalo_palette.png">
 </p>
 
 <hr>
@@ -65,16 +66,16 @@ show_col(jwvillain_palette$mhr_magnamalo)
 ## Monster Hunter Rise - Pukei-Pukei (mhr_pukei)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_pukei.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_pukei.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Pukei-Pukei (mhr_pukei) palette
-show_col(jwvillain_palette$mhr_pukei)
+show_col(MHpalettes$mhr_pukei)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_pukei_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_pukei_palette.png">
 </p>
 
 <hr>
@@ -82,16 +83,16 @@ show_col(jwvillain_palette$mhr_pukei)
 ## Monster Hunter Rise - Mizutsune (mhr_mizutsune)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_mizutsune.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_mizutsune.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Mizutsune (mhr_mizutsune) palette
-show_col(jwvillain_palette$mhr_mizutsune)
+show_col(MHpalettes$mhr_mizutsune)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_mizutsune_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_mizutsune_palette.png">
 </p>
 
 <hr>
@@ -99,16 +100,16 @@ show_col(jwvillain_palette$mhr_mizutsune)
 ## Monster Hunter Rise - Narwa (mhr_narwa)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_narwa.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_narwa.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Narwa (mhr_narwa) palette
-show_col(jwvillain_palette$mhr_narwa)
+show_col(MHpalettes$mhr_narwa)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_narwa_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_narwa_palette.png">
 </p>
 
 <hr>
@@ -116,16 +117,16 @@ show_col(jwvillain_palette$mhr_narwa)
 ## Monster Hunter Rise - Ibushi (mhr_ibushi)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_ibushi.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_ibushi.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Ibushi (mhr_ibushi) palette
-show_col(jwvillain_palette$mhr_ibushi)
+show_col(MHpalettes$mhr_ibushi)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_ibushi_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_ibushi_palette.png">
 </p>
 
 <hr>
@@ -133,16 +134,16 @@ show_col(jwvillain_palette$mhr_ibushi)
 ## Monster Hunter Rise - Tigrex (mhr_tigrex)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_tigrex.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_tigrex.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Tigrex (mhr_tigrex) palette
-show_col(jwvillain_palette$mhr_tigrex)
+show_col(MHpalettes$mhr_tigrex)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_tigrex_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_tigrex_palette.png">
 </p>
 
 <hr>
@@ -150,16 +151,16 @@ show_col(jwvillain_palette$mhr_tigrex)
 ## Monster Hunter Rise - Apex Zinogre (mhr_apexZinogre)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_apexZinogre.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_apexZinogre.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Apex Zinogre (mhr_apexZinogre) palette
-show_col(jwvillain_palette$mhr_apexZinogre)
+show_col(MHpalettes$mhr_apexZinogre)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_apexZinogre_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_apexZinogre_palette.png">
 </p>
 
 <hr>
@@ -167,16 +168,16 @@ show_col(jwvillain_palette$mhr_apexZinogre)
 ## Monster Hunter Rise - Goss Harag (mhr_goss)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_goss.jpg" width="426.7" height="240">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_goss.jpg" width="426.7" height="240">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Rise - Goss Harag (mhr_goss) palette
-show_col(jwvillain_palette$mhr_goss)
+show_col(MHpalettes$mhr_goss)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhr_goss_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_goss_palette.png">
 </p>
 
 <hr>
@@ -184,16 +185,16 @@ show_col(jwvillain_palette$mhr_goss)
 ## Monster Hunter Stories 2 - Razewing Rathalos (mhs2_razewing)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_razewing.png" width="425" height="354.75">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_razewing.png" width="425" height="354.75">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Razewing Rathalos (mhs2_razewing) palette
-show_col(jwvillain_palette$mhs2_razewing)
+show_col(MHpalettes$mhs2_razewing)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_razewing_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_razewing_palette.png">
 </p>
 
 <hr>
@@ -201,16 +202,16 @@ show_col(jwvillain_palette$mhs2_razewing)
 ## Monster Hunter Stories 2 - Zamtrios (mhs2_zamtrios)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_zamtrios.png" width="413" height="300">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_zamtrios.png" width="413" height="300">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Zamtrios (mhs2_zamtrios) palette
-show_col(jwvillain_palette$mhs2_zamtrios)
+show_col(MHpalettes$mhs2_zamtrios)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_zamtrios_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_zamtrios_palette.png">
 </p>
 
 <hr>
@@ -218,16 +219,16 @@ show_col(jwvillain_palette$mhs2_zamtrios)
 ## Monster Hunter Stories 2 - Elderfrost Gammoth (mhs2_elderfrost)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_elderfrost.png" width="376" height="316.67">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_elderfrost.png" width="376" height="316.67">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Elderfrost Gammoth (mhs2_elderfrost) palette
-show_col(jwvillain_palette$mhs2_elderfrost)
+show_col(MHpalettes$mhs2_elderfrost)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_elderfrost_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_elderfrost_palette.png">
 </p>
 
 <hr>
@@ -235,16 +236,16 @@ show_col(jwvillain_palette$mhs2_elderfrost)
 ## Monster Hunter Stories 2 - Boltreaver Astalos (mhs2_boltreaver)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_boltreaver.png" width="465.5" height="315.5">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_boltreaver.png" width="465.5" height="315.5">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Boltreaver Astalos (mhs2_boltreaver) palette
-show_col(jwvillain_palette$mhs2_boltreaver)
+show_col(MHpalettes$mhs2_boltreaver)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_boltreaver_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_boltreaver_palette.png">
 </p>
 
 <hr>
@@ -252,16 +253,16 @@ show_col(jwvillain_palette$mhs2_boltreaver)
 ## Monster Hunter Stories 2 - Hellblade Glavenus (mhs2_hellblade)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_hellblade.png" width="572" height="298">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_hellblade.png" width="572" height="298">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Hellblade Glavenus (mhs2_hellblade) palette
-show_col(jwvillain_palette$mhs2_hellblade)
+show_col(MHpalettes$mhs2_hellblade)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_hellblade_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_hellblade_palette.png">
 </p>
 
 <hr>
@@ -269,16 +270,16 @@ show_col(jwvillain_palette$mhs2_hellblade)
 ## Monster Hunter Stories 2 - Lagiacrus (mhs2_lagiacrus)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_lagiacrus.png" width="378" height="266.67">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_lagiacrus.png" width="378" height="266.67">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Lagiacrus (mhs2_lagiacrus) palette
-show_col(jwvillain_palette$mhs2_lagiacrus)
+show_col(MHpalettes$mhs2_lagiacrus)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_lagiacrus_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_lagiacrus_palette.png">
 </p>
 
 <hr>
@@ -286,16 +287,16 @@ show_col(jwvillain_palette$mhs2_lagiacrus)
 ## Monster Hunter Stories 2 - Palamute (mhs2_palamute)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_palamute.jpeg" width="640" height="360">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_palamute.jpeg" width="640" height="360">
 </p>
 
 ```r
 # show ordering of colors in Monster Hunter Stories 2 - Palamute (mhs2_palamute) palette
-show_col(jwvillain_palette$mhs2_palamute)
+show_col(MHpalettes$mhs2_palamute)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/jwvillainColor/blob/main/images/mhs2_palamute_palette.png">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhs2_palamute_palette.png">
 </p>
 
 <hr>
