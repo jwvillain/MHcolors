@@ -287,7 +287,7 @@ show_col(MHpalettes$mhs2_lagiacrus)
 ## Monster Hunter Rise Sunbreak -  (mhSunbreak_garangolm)
 
 <p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.png" width="640" height="360">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm.jpg" width="640" height="360">
 </p>
 
 ```r
@@ -296,7 +296,7 @@ show_col(MHpalettes$mhSunbreak_garangolm)
 ```
 
 <p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.jpg">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_garangolm_palette.png">
 </p>
 
 <hr>
