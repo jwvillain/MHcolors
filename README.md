@@ -318,6 +318,23 @@ show_col(MHpalettes$mhSunbreak_orangaten)
 
 <hr>
 
+## Monster Hunter Rise - Kamura Village (mhr_kamura)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_kamura.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Monster Hunter Rise - Kamura Village (mhr_kamura) palette
+show_col(MHpalettes$mhr_kamura)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhr_kamura_palette.png">
+</p>
+
+<hr>
+
 ## Monster Hunter Stories 2 - Palamute (mhs2_palamute)
 
 <p align="center">
@@ -335,4 +352,19 @@ show_col(MHpalettes$mhs2_palamute)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak - Elgado (mhSunbreak_elgado)
 
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_elgado.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Elgado (mhSunbreak_elgado) palette
+show_col(MHpalettes$mhSunbreak_elgado)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_elgado_palette.png">
+</p>
+
+<hr>
