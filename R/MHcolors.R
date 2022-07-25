@@ -10,12 +10,12 @@
 MHpalettes <- list(
   ## Palettes with six colors each
   # Monster Hunter Rise - Tetranadon
-  mhr_tetranadon = c("#92994C",#normal green
-                     "#331F16",# dark brown
-                     "#A25B2F",# reddish orange
-                     "#B5C3A2",# light green
+  mhr_tetranadon = c("#A8C863", # light green
+                     "#4B3319",# dark brown
+                     "#5678B7",# blue
+                     "#CF9973",# pale orange
                      "#141416",# black
-                     "#C8BFB0"), # cream color
+                     "#7C852C"),#normal green
 
   # Monster Hunter Rise - Magnamalo
   mhr_magnamalo = c("#513F57", # light gray/purple
@@ -94,7 +94,7 @@ MHpalettes <- list(
                     "#F3FFFF", #ice blue
                     "#4092B7", #dark blue
                     "#375941", #green
-                    "#CD4B55", #red
+                    "#FF5E00", #orange
                     "#001223"), #black
 
   # Monster Hunter Stories 2 - Elderfrost Gammoth
@@ -102,15 +102,15 @@ MHpalettes <- list(
                      "#FFFFFF", #white
                      "#FFF7B6", #yellow
                      "#B64649", #red
-                     "#695B40", #brown
+                     "#493F30", #dark brown
                      "#8D9592"), #gray
 
   # Monster Hunter Stories 2 - Boltreaver Astalos
   mhs2_boltreaver =c("#0B0E0A", #black
                      "#C7FE4A", #neon green
-                     "#457449", #dark green
-                     "#5C7078", #gray
+                     "#066006", #dark green
                      "#22FFDC", # blue/green
+                     "#95B1C7", #steel gray
                      "#3BA3E9"), #blue
 
   # Monster Hunter Stories 2 - Hellblade Glavenus
@@ -175,7 +175,7 @@ MHpalettes <- list(
                    "#78C0CF", #
                    "#9BD797", # green
                    "#687888", # gray
-                   "#335FA0", #
+                   "#F87C36", # fiery orange
                    "#533952", # purple
                    "#F7F4E3") #
 
