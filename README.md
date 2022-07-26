@@ -1,5 +1,6 @@
 # Monster Hunter Colors (MHcolors)
 Color palettes generated from favorite monsters/stages from the monster hunter series
+<br /><br />Idea and base code from alphonse package: https://github.com/kaylinratner/alphonse/blob/main/man/alphonse
 
 ## Installation
 
