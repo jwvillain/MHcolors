@@ -15,7 +15,7 @@ library(scales)
 ## Usage
 
 See papers below for examples using this R package:
-https://www.biorxiv.org/content/10.1101/2021.12.13.472432v2
+\nhttps://www.biorxiv.org/content/10.1101/2021.12.13.472432v2
 
 Below is the list of palettes that are currently available. Palettes were designed to accomodate for different forms of color blindness (using https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
