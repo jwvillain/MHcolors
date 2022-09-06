@@ -28,7 +28,8 @@ names(MHpalettes)
  [5] "mhr_narwa"            "mhr_ibushi"           "mhr_tigrex"           "mhr_apexZinogre"     
  [9] "mhr_goss"             "mhs2_razewing"        "mhs2_zamtrios"        "mhs2_elderfrost"     
 [13] "mhs2_boltreaver"      "mhs2_hellblade"       "mhs2_lagiacrus"       "mhSunbreak_garangolm"
-[17] "mhSunbreak_orangaten" "mhr_kamura"           "mhs2_palamute"        "mhSunbreak_elgado"   
+[17] "mhSunbreak_orangaten" "mhSunbreak_lunagaron" "mhSunbreak_malzeno"   "mhr_kamura"           
+[21] "mhs2_palamute"        "mhSunbreak_elgado"  
 ```
 
 <hr>
@@ -335,6 +336,23 @@ show_col(MHpalettes$mhSunbreak_lunagaron)
 
 <p align="center">
   <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_lunagaron_palette.png">
+</p>
+
+<hr>
+
+## Monster Hunter Rise Sunbreak - Malzeno (mhSunbreak_malzeno)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_malzeno.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Malzeno (mhSunbreak_malzeno) palette
+show_col(MHpalettes$mhSunbreak_malzeno)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_malzeno_palette.png">
 </p>
 
 <hr>
