@@ -322,6 +322,23 @@ show_col(MHpalettes$mhSunbreak_orangaten)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak - Lunagaron (mhSunbreak_lunagaron)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_lunagaron.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Lunagaron (mhSunbreak_lunagaron) palette
+show_col(MHpalettes$mhSunbreak_lunagaron)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_lunagaron_palette.png">
+</p>
+
+<hr>
+
 ## Monster Hunter Rise - Kamura Village (mhr_kamura)
 
 <p align="center">
