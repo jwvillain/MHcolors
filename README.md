@@ -357,6 +357,23 @@ show_col(MHpalettes$mhSunbreak_malzeno)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak - Astalos (mhSunbreak_astalos)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_astalos.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Astalos (mhSunbreak_astalos) palette
+show_col(MHpalettes$mhSunbreak_astalos)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_astalos_palette.png">
+</p>
+
+<hr>
+
 ## Monster Hunter Rise - Kamura Village (mhr_kamura)
 
 <p align="center">
