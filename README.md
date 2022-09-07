@@ -28,8 +28,8 @@ names(MHpalettes)
  [5] "mhr_narwa"            "mhr_ibushi"           "mhr_tigrex"           "mhr_apexZinogre"     
  [9] "mhr_goss"             "mhs2_razewing"        "mhs2_zamtrios"        "mhs2_elderfrost"     
 [13] "mhs2_boltreaver"      "mhs2_hellblade"       "mhs2_lagiacrus"       "mhSunbreak_garangolm"
-[17] "mhSunbreak_orangaten" "mhSunbreak_lunagaron" "mhSunbreak_malzeno"   "mhr_kamura"           
-[21] "mhs2_palamute"        "mhSunbreak_elgado"  
+[17] "mhSunbreak_orangaten" "mhSunbreak_lunagaron" "mhSunbreak_malzeno"   "mhSunbreak_astalos"
+[21] "mhr_kamura"           "mhs2_palamute"        "mhSunbreak_elgado"  
 ```
 
 <hr>
