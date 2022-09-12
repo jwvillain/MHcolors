@@ -1,10 +1,10 @@
 #'Personal color palettes that account for various forms of color blindness according to https://www.color-blindness.com/coblis-color-blindness-simulator/.
 #'
-#'hexadecimal values collected from https://html-color-codes.info/colors-from-image/
+#'hexadecimal values collected from https://imagecolorpicker.com/en
 #'
 #'Background material on how to build R package: http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf
 #'
-#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_elgado}.
+#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron}, \code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_elgado}.
 
 #' @export
 MHpalettes <- list(
@@ -145,6 +145,31 @@ MHpalettes <- list(
                           "#A29E98", # gray
                           "#131013"), # black
 
+  # Monster Hunter Rise Sunbreak - Lunagaron
+  mhSunbreak_lunagaron =c("#2C92EB", #carolina blue
+                          "#ABDCEA", #ice blue
+                          "#EDEBF0", #white
+                          "#753496", #reddish-purple
+                          "#C71942", #red
+                          "#0F1D3A"), #black
+
+  # Monster Hunter Rise Sunbreak - Malzeno
+  mhSunbreak_malzeno =c("#1D0726", # black
+                          "#EC1E4A", #red
+                          "#ED8CAD", #pink
+                          "#801038", #dark red/purple
+                          "#FDF9DF", #light tan
+                          "#E6DB59"), #yellow
+
+  # Monster Hunter Rise Sunbreak - Astalos
+  mhSunbreak_astalos =c("#51D339", #bright green
+                        "#38342b", #black
+                        "#1E894C", #dark green
+                        "#AE81BD", #Purple
+                        "#D0F1FA", #light blue
+                        "#775B52"), #Brown
+
+
   ## Palettes with 9 colors each
   # Monster Hunter Rise - Kamura Village
   mhr_kamura = c("#FADCE8", # Bright pink
@@ -186,7 +211,7 @@ MHpalettes <- list(
 #'
 #' Idea and code forked from https://github.com/kaylinratner/alphonse/blob/main/R/colors.R
 #'
-#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_elgado}.
+#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron},\code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_elgado}.
 #'
 #'@param n Number of colors needed.
 #'
