@@ -162,12 +162,12 @@ MHpalettes <- list(
                           "#E6DB59"), #yellow
 
   # Monster Hunter Rise Sunbreak - Astalos
-  mhSunbreak_astalos =c("#51D339", #bright green
-                        "#38342b", #black
-                        "#1E894C", #dark green
-                        "#AE81BD", #Purple
+  mhSunbreak_astalos =c("#5FFAA0", #bright green
                         "#D0F1FA", #light blue
-                        "#775B52"), #Brown
+                        "#1C2325", #black
+                        "#AE81BD", #Purple
+                        "#146249", #dark green
+                        "#77797C"), #light gray
 
 
   ## Palettes with 9 colors each
