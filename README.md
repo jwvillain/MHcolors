@@ -1,5 +1,5 @@
 # Monster Hunter Colors (MHcolors)
-Color palettes generated from favorite monsters/stages from the monster hunter series
+Color palettes generated from favorite monsters/stages from the monster hunter series. Palettes were designed to accomodate for different forms of color blindness (using https://www.color-blindness.com/coblis-color-blindness-simulator/).
 <br /><br />Idea and base code from alphonse package: https://github.com/kaylinratner/alphonse/blob/main/man/alphonse
 
 ## Installation
@@ -16,9 +16,9 @@ library(scales)
 ## Usage
 
 See papers below for examples using this R package:
-<br />https://www.biorxiv.org/content/10.1101/2021.12.13.472432v2
+<br />https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-09018-1
 
-Below is the list of palettes that are currently available. Palettes were designed to accomodate for different forms of color blindness (using https://www.color-blindness.com/coblis-color-blindness-simulator/).
+Below is the list of palettes that are currently available. 
 
 ``` r
 library(MHcolors)
