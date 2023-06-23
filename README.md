@@ -375,6 +375,45 @@ show_col(MHpalettes$mhSunbreak_astalos)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak - Golden Rathian/Silver Rathalos (mhSunbreak_metalRaths)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_metalRaths1.jpg" width="426.7" height="240">
+</p>
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_metalRaths2.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Metal Raths (mhSunbreak_metalRaths) palette
+show_col(MHpalettes$mhSunbreak_metalRaths)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_metalRaths_palette.png">
+</p>
+
+<hr>
+
+
+## Monster Hunter Rise Sunbreak - Gaismagorm (mhSunbreak_gaismagorm)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_gaismagorm.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Gaismagorm (mhSunbreak_gaismagorm) palette
+show_col(MHpalettes$mhSunbreak_gaismagorm)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_gaismagorm_palette.png">
+</p>
+
+<hr>
+
 ## Monster Hunter Rise - Kamura Village (mhr_kamura)
 
 <p align="center">
