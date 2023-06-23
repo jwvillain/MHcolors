@@ -4,7 +4,7 @@
 #'
 #'Background material on how to build R package: http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf
 #'
-#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron}, \code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_elgado}.
+#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron}, \code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
 
 #' @export
 MHpalettes <- list(
@@ -154,12 +154,14 @@ MHpalettes <- list(
                           "#0F1D3A"), #black
 
   # Monster Hunter Rise Sunbreak - Malzeno
-  mhSunbreak_malzeno =c("#1D0726", # black
-                          "#EC1E4A", #red
-                          "#ED8CAD", #pink
-                          "#801038", #dark red/purple
-                          "#FDF9DF", #light tan
-                          "#E6DB59"), #yellow
+  mhSunbreak_malzeno =c("#EC1E4A", #red
+                        "#1D0726", # black
+                        "#E6DB59", #yellow
+                        "#ED8CAD", #pink
+                        "#FDF9DF", #light tan
+                        "#801038"), #dark red/purple
+
+
 
   # Monster Hunter Rise Sunbreak - Astalos
   mhSunbreak_astalos =c("#5FFAA0", #bright green
@@ -168,6 +170,22 @@ MHpalettes <- list(
                         "#AE81BD", #Purple
                         "#146249", #dark green
                         "#77797C"), #light gray
+
+  # Monster Hunter Rise Sunbreak - Gaismagorm
+  mhSunbreak_gaismagorm =c("#EB0D02", #red
+                           "#5BD3ED", #Carolina blue
+                           "#131F36", #Black
+                           "#E4B357", #Yellow
+                           "#D37f90", #Purple/red
+                           "#EBDFC9"), #Tan
+
+  # Monster Hunter Rise Sunbreak - Golden Rathian/Silver Rathalos
+  mhSunbreak_metalRaths =c("#FFFF8A", #Pale yellow
+                           "#687CB1", #Dark blue
+                           "#58524B", #dark gray
+                           "#ED430C", #red/orange
+                           "#BCDBFE", #Light Blue
+                           "#dac45d"), #Dark Yellow
 
 
   ## Palettes with 9 colors each
@@ -202,7 +220,18 @@ MHpalettes <- list(
                    "#687888", # gray
                    "#F87C36", # fiery orange
                    "#533952", # purple
-                   "#F7F4E3") #
+                   "#F7F4E3"), #
+
+  # Monster Hunter Rise Sunbreak - Amatsu
+  mhSunbreak_amatsu =c("#FDF972", #Bright Yellow
+                       "#FBB460", #Orange
+                       "#362A30", #Black
+                       "#FA5B58", #Red
+                       "#DB9CFC", #Light Purple
+                       "#98978E", #Gray
+                       "#FB7AA8", #Darker Pink #FB7AA8
+                       "#E8D5B7", #Light tan/peach
+                       "#DBE2E4") #light gray
 
 
   )
@@ -211,7 +240,7 @@ MHpalettes <- list(
 #'
 #' Idea and code forked from https://github.com/kaylinratner/alphonse/blob/main/R/colors.R
 #'
-#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron},\code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_elgado}.
+#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron},\code{mhSunbreak_malzeno},\code{mhSunbreak_astalos}, \code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
 #'
 #'@param n Number of colors needed.
 #'
