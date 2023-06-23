@@ -24,12 +24,13 @@ Below is the list of palettes that are currently available.
 library(MHcolors)
 
 names(MHpalettes)
- [1] "mhr_tetranadon"       "mhr_magnamalo"        "mhr_pukei"            "mhr_mizutsune"       
- [5] "mhr_narwa"            "mhr_ibushi"           "mhr_tigrex"           "mhr_apexZinogre"     
- [9] "mhr_goss"             "mhs2_razewing"        "mhs2_zamtrios"        "mhs2_elderfrost"     
-[13] "mhs2_boltreaver"      "mhs2_hellblade"       "mhs2_lagiacrus"       "mhSunbreak_garangolm"
-[17] "mhSunbreak_orangaten" "mhSunbreak_lunagaron" "mhSunbreak_malzeno"   "mhSunbreak_astalos"
-[21] "mhr_kamura"           "mhs2_palamute"        "mhSunbreak_elgado"    "mhSunbreak_amatsu"
+ [1] "mhr_tetranadon"        "mhr_magnamalo"         "mhr_pukei"             "mhr_mizutsune"        
+ [5] "mhr_narwa"             "mhr_ibushi"            "mhr_tigrex"            "mhr_apexZinogre"      
+ [9] "mhr_goss"              "mhs2_razewing"         "mhs2_zamtrios"         "mhs2_elderfrost"      
+[13] "mhs2_boltreaver"       "mhs2_hellblade"        "mhs2_lagiacrus"        "mhSunbreak_garangolm" 
+[17] "mhSunbreak_orangaten"  "mhSunbreak_lunagaron"  "mhSunbreak_malzeno"    "mhSunbreak_astalos"   
+[21] "mhSunbreak_gaismagorm" "mhSunbreak_metalRaths" "mhr_kamura"            "mhs2_palamute"        
+[25] "mhSunbreak_elgado"     "mhSunbreak_amatsu"    
 ```
 
 <hr>
