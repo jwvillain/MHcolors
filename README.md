@@ -432,7 +432,7 @@ show_col(MHpalettes$mhSunbreak_elgado)
 </p>
 
 ```r
-# show ordering of colors in Elgado (mhSunbreak_amatsu) palette
+# show ordering of colors in Amatsu (mhSunbreak_amatsu) palette
 show_col(MHpalettes$mhSunbreak_amatsu)
 ```
 
