@@ -14,9 +14,9 @@ MHcolors(name, n, type = c("discrete", "continuous"))
 \arguments{
   \item{name}{
 Name of the desired color palette.
-Available options with 6 colors include: "mhr_tetranadon", "mhr_magnamalo", "mhr_pukei", "mhr_mizutsune", "mhr_narwa", "mhr_ibushi", "mhr_tigrex", "mhr_apexZinogre", "mhr_goss", "mhs2_razewing", "mhs2_zamtrios", "mhs2_elderfrost", "mhs2_boltreaver", "mhs2_hellblade", "mhs2_lagiacrus","mhSunbreak_garangolm,"mhSunbreak_orangaten", "mhSunbreak_lunagaron", "mhSunbreak_malzeno", "mhSunbreak_astalos", "mhSunbreak_gaismagorm", "mhSunbreak_metalRaths".
+Available options with 6 colors include: "mhr_tetranadon", "mhr_magnamalo", "mhr_pukei", "mhr_mizutsune", "mhr_narwa", "mhr_ibushi", "mhr_tigrex", "mhr_apexZinogre", "mhr_goss", "mhs2_razewing", "mhs2_zamtrios", "mhs2_elderfrost", "mhs2_boltreaver", "mhs2_hellblade", "mhs2_lagiacrus","mhSunbreak_garangolm,"mhSunbreak_orangaten", "mhSunbreak_lunagaron", "mhSunbreak_malzeno", "mhSunbreak_astalos", "mhSunbreak_gaismagorm", "mhSunbreak_metalRaths", "mhSunbreak_primordial", "mhSunbreak_amatsu".
 
-Available options with 9 colors include: "mhr_kamura", "mhs2_palamute", "mhSunbreak_elgado", "mhSunbreak_amatsu".
+Available options with 9 colors include: "mhr_kamura", "mhs2_palamute", "mhSunbreak_elgado".
 }
   \item{n}{
 Number of colors desired/needed.
