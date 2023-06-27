@@ -4,7 +4,7 @@
 #'
 #'Background material on how to build R package: http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf
 #'
-#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron}, \code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
+#'Color options include: \code{mhr_kamura}, \code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute},\code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron}, \code{mhSunbreak_malzeno},\code{mhSunbreak_astalos},\code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm},\code{mhSunbreak_primordial},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
 
 #' @export
 MHpalettes <- list(
@@ -188,6 +188,15 @@ MHpalettes <- list(
                            "#dac45d"), #Dark Yellow
 
 
+  # Monster Hunter Rise Sunbreak - Primordial Malzeno
+  mhSunbreak_primordial =c("#EDF4F1", #white
+                           "#F7CD92", #yellow/gold
+                           "#9EADDC", #light blue/gray
+                           "#5c4941", #brown
+                           "#C73F46", #red
+                           "#30416C"), #dark blue
+
+
   ## Palettes with 9 colors each
   # Monster Hunter Rise - Kamura Village
   mhr_kamura = c("#FADCE8", # Bright pink
@@ -224,14 +233,12 @@ MHpalettes <- list(
 
   # Monster Hunter Rise Sunbreak - Amatsu
   mhSunbreak_amatsu =c("#FDF972", #Bright Yellow
-                       "#FBB460", #Orange
+                       "#DB9CFC", #Light Purple
                        "#362A30", #Black
                        "#FA5B58", #Red
-                       "#DB9CFC", #Light Purple
-                       "#98978E", #Gray
-                       "#FB7AA8", #Darker Pink #FB7AA8
-                       "#E8D5B7", #Light tan/peach
-                       "#DBE2E4") #light gray
+                       "#E8EBEA", #light gray
+                       "#FBB460" ) #Orange
+
 
 
   )
@@ -240,7 +247,7 @@ MHpalettes <- list(
 #'
 #' Idea and code forked from https://github.com/kaylinratner/alphonse/blob/main/R/colors.R
 #'
-#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron},\code{mhSunbreak_malzeno},\code{mhSunbreak_astalos}, \code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
+#'@param name Name of color palette. Options are: \code{mhr_kamura},\code{mhr_tetranadon}, \code{mhr_magnamalo}, \code{mhr_pukei}, \code{mhr_mizutsune}, \code{mhr_narwa}, \code{mhr_ibushi}, \code{mhr_tigrex}, \code{mhr_apexZinogre}, \code{mhr_goss}, \code{mhs2_razewing}, \code{mhs2_zamtrios}, \code{mhs2_elderfrost}, \code{mhs2_boltreaver}, \code{mhs2_hellblade}, \code{mhs2_lagiacrus}, \code{mhs2_palamute}, \code{mhSunbreak_garangolm}, \code{mhSunbreak_orangaten}, \code{mhSunbreak_lunagaron},\code{mhSunbreak_malzeno},\code{mhSunbreak_astalos}, \code{mhSunbreak_metalRaths}, \code{mhSunbreak_gaismagorm}, \code{mhSunbreak_primordial},\code{mhSunbreak_amatsu},\code{mhSunbreak_elgado}.
 #'
 #'@param n Number of colors needed.
 #'
