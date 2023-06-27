@@ -29,8 +29,8 @@ names(MHpalettes)
  [9] "mhr_goss"              "mhs2_razewing"         "mhs2_zamtrios"         "mhs2_elderfrost"      
 [13] "mhs2_boltreaver"       "mhs2_hellblade"        "mhs2_lagiacrus"        "mhSunbreak_garangolm" 
 [17] "mhSunbreak_orangaten"  "mhSunbreak_lunagaron"  "mhSunbreak_malzeno"    "mhSunbreak_astalos"   
-[21] "mhSunbreak_gaismagorm" "mhSunbreak_metalRaths" "mhr_kamura"            "mhs2_palamute"        
-[25] "mhSunbreak_elgado"     "mhSunbreak_amatsu"    
+[21] "mhSunbreak_gaismagorm" "mhSunbreak_metalRaths" "mhSunbreak_primordial" "mhr_kamura"           
+[25] "mhs2_palamute"         "mhSunbreak_elgado"     "mhSunbreak_amatsu"
 ```
 
 <hr>
@@ -413,6 +413,40 @@ show_col(MHpalettes$mhSunbreak_metalRaths)
 
 <hr>
 
+## Monster Hunter Rise Sunbreak - Amatsu (mhSunbreak_amatsu)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_amatsu.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Amatsu (mhSunbreak_amatsu) palette
+show_col(MHpalettes$mhSunbreak_amatsu)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_amatsu_palette.png">
+</p>
+
+<hr>
+
+## Monster Hunter Rise Sunbreak - Primordial Malzeno (mhSunbreak_primordial)
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_primordial.jpg" width="426.7" height="240">
+</p>
+
+```r
+# show ordering of colors in Amatsu (mhSunbreak_primordial) palette
+show_col(MHpalettes$mhSunbreak_primordial)
+```
+
+<p align="center">
+  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_primordial_palette.png">
+</p>
+
+<hr>
+
 
 ## Monster Hunter Rise - Kamura Village (mhr_kamura)
 
@@ -465,19 +499,4 @@ show_col(MHpalettes$mhSunbreak_elgado)
 
 <hr>
 
-## Monster Hunter Rise Sunbreak - Amatsu (mhSunbreak_amatsu)
 
-<p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_amatsu.jpg" width="426.7" height="240">
-</p>
-
-```r
-# show ordering of colors in Amatsu (mhSunbreak_amatsu) palette
-show_col(MHpalettes$mhSunbreak_amatsu)
-```
-
-<p align="center">
-  <img src="https://github.com/jwvillain/MHcolors/blob/main/images/mhSunbreak_amatsu_palette.png">
-</p>
-
-<hr>
